@@ -1,0 +1,23 @@
+.container{
+    padding-top: 150px;
+    
+    
+}
+.box{
+    
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px; 
+    margin-left:250px ;
+    margin-right:250px ;
+    background-color:#1C3334 ;
+    }
+.kip{
+    
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px; 
+    margin-left:250px ;
+    margin-right:250px ;
+    visibility:hidden;
+}
