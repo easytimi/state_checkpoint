@@ -9,6 +9,7 @@ const Display = ({profile}) =>{
                 <h1>{profile.fullName} </h1>
                 <h1>{profile.bio}</h1>
                 <h2>{profile.proFession}</h2>
+                <div><h2>Time Interval is:{profile.time}</h2></div>
             </div>
         </div>
     )
